@@ -2,7 +2,7 @@
   "name": "@vietthai244/pancake-toolkit",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
